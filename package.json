@@ -1,0 +1,17 @@
+{
+    "name": "csv-to-mongodb-import",
+    "version": "1.0.0",
+    "description": "CSV to MongoDB Data Import",
+    "main": "index.js",
+    "scripts": {
+      "start": "node script.js"
+    },
+    "author": "Yusuf Alperen BOZKURT",
+    "license": "ISC",
+    "dependencies": {
+      "csv-parser": "^3.0.0",
+      "fs": "0.0.1-security",
+      "mongodb": "^5.7.0"
+    }
+  }
+  
