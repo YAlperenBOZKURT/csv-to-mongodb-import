@@ -61,5 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to customize and improve this script according to your specific needs. If you encounter any issues or have questions, please open an issue on this repository.
 
-Happy data importing!
 ```
